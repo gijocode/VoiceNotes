@@ -36,5 +36,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-- Email: your@email.com
 - GitHub Issues: [https://github.com/gijocode/VoiceNotes/issues](https://github.com/gijocode/VoiceNotes/issues)
